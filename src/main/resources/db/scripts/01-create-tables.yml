@@ -1,0 +1,17 @@
+databaseChangeLog:
+  -  changeSet:
+       id:  createTableCashRegister
+       author: agnes
+       changes:
+         -  createTable:
+              tableName:  cash_register
+              columns:
+                -  column:
+                     name:  id
+                     type:  uuid
+                     constraints:
+                       primaryKey: true
+                       nullable: false
+                -  column:
+                     name:  money
+                     type:  binary

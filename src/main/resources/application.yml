@@ -1,0 +1,14 @@
+spring:
+  liquibase:
+    url: jdbc:postgresql://localhost:5436/cash_register
+    user: postgres
+    password: postgres
+    change-log: db/changelog-master.yml
+    enabled: true
+  datasource:
+    url: jdbc:postgresql://localhost:5436/cash_register
+    driverClassName: org.postgresql.Driver
+    username: postgres
+    password: postgres
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
