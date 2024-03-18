@@ -1,5 +1,5 @@
 # Transaction Hub
-Transaction Hub is a Java Spring Boot application designed to manage transactions efficiently in a centralized manner.
+Transaction Hub is an application designed to manage transactions, and their owners, securely in a centralized manner.
 
 ## Table of Contents
 
@@ -8,7 +8,6 @@ Transaction Hub is a Java Spring Boot application designed to manage transaction
 3. [Technologies Used](#technologies-used)
 4. [Usage](#usage)
 5. [Development](#Development)
-
 
 # Introduction
 Transaction Hub aims to streamline transactional processes within a system by providing a centralized platform for managing and grouping transactions. It offers features such as transaction creation, monitoring, enhancing the efficiency and reliability of transactional workflows.
