@@ -7,7 +7,6 @@ Transaction Hub is an application designed to manage transactions, and their own
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
 4. [Usage](#usage)
-5. [Development](#Development)
 
 # Introduction
 Transaction Hub aims to streamline transactional processes within a system by providing a centralized platform for managing and grouping transactions. It offers features such as transaction creation, monitoring, enhancing the efficiency and reliability of transactional workflows.
